@@ -4,7 +4,7 @@
       "name": "Corvus",
       "maintainer": "Galeaf",
       "websiteURL": "https://github.com/janedeveloper/myboard",
-      "Url": "file:D:/Installers/Arduino/boards/Corvus/custom_board/package_corvus_index.json",
+      "Url": "https://github.com/Galeaf/Corvus/blob/21855a7f9001c6d313c474f3f2ab4021aaa24a62/custom_board/package_corvus_index.json",
       "email": "Galeaf.36@gmail.com",
       "platforms": [
         {
@@ -15,7 +15,7 @@
           "help": {
             "online": "http://janedeveloper.org/forum/myboard"
           },
-          "url": "file:D:/Installers/Arduino/boards/Corvus/custom_board/Corvus-0.0.1.zip",
+          "url": "https://github.com/Galeaf/Corvus/blob/21855a7f9001c6d313c474f3f2ab4021aaa24a62/custom_board/Corvus-0.0.1.zip",
           "archiveFileName": "Corvus-0.0.1.zip",
           "checksum": "SHA-256:6F98119AFCF7DF01D1842D3EC6DC2B4DE6A581B6C1767AF1A7B1E907A5B7BCD4",
           "size": "5944547",
