@@ -189,7 +189,7 @@
           },
           "url": "https://github.com/Galeaf/Corvus/blob/main/custom_board/Corvus-0.0.6.zip?raw=true",
           "archiveFileName": "Corvus-0.0.6.zip",
-          "checksum": "SHA-256:E4ACAE0F641841D5DF49E579CFDA55B1D4BC6460D9B793467A862931B92976C9",
+          "checksum": "SHA-256:86D77B45E5163E5CB2BC0708721690B4C13910D1224DA256DED3B98E7B591526",
           "size": "5940511",
           "boards": [
             { "name": "Corvus IU" }, 
